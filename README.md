@@ -16,8 +16,8 @@ Botão de emergência para controle manual.
 
 Robustez e confiabilidade para ambiente de estufa.
 
-🛠 Componentes Sugeridos:
-Arduino Uno ou similar
+🛠 Componentes:
+Arduino Uno
 
 Sensor de temperatura (ex: LM35 ou DHT22)
 
@@ -29,10 +29,10 @@ Botão
 
 Display LCD (opcional)
 
-📌 Entregável:
-Código Arduino + esquema de montagem (pode ser feito no Tinkercad ou Fritzing).
+Entregável:
+Código Arduino + esquema de montagem (feito no Tinkercad).
 
-2. DESAFIO <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20" height="20">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20" height="20">2. DESAFIO Python
 Sistema de Controle de Estoque
 🎯 Contexto:
 A Armazém Central precisa de um sistema para gerenciar entradas e saídas de produtos de papelaria e emitir alertas de reposição.
