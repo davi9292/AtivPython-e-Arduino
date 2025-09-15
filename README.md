@@ -32,8 +32,9 @@ Display LCD (opcional)
 Entregável:
 Código Arduino + esquema de montagem (feito no Tinkercad).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20" height="20"> 2. DESAFIO Python
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20" height="20">  2. DESAFIO Python
 Sistema de Controle de Estoque
+
 🎯 Contexto:
 A Armazém Central precisa de um sistema para gerenciar entradas e saídas de produtos de papelaria e emitir alertas de reposição.
 
