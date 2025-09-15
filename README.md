@@ -1,5 +1,6 @@
-🧪 1. ATIVIDADE ARDUINO TREINO
-Sistema de Monitoramento Ambiental Automatizado
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="20" height="20"> 1. ATIVIDADE ARDUINO TREINO
+
+
 🎯 Contexto:
 A empresa AgroTech Inovação Ltda. precisa automatizar o controle de temperatura e ventilação em suas estufas para melhorar a eficiência e evitar perdas na produção.
 
