@@ -71,6 +71,7 @@ Estoque final atualizado
 Lista de produtos que precisam de reposição
 
 👨‍💻 Equipe:
+
 Davi de Assis Fabricio
 
 Vinicius Queiroz
@@ -78,6 +79,7 @@ Vinicius Queiroz
 Thomas Gabriel
 
 👨‍💻 Professores:
+
 Luiz Felipe Cardozo
 
 Lucas Machado
